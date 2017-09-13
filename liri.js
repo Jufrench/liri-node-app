@@ -2,7 +2,6 @@ var keys = require('./keys');
 var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
 var request = require('request');
-var colors = require('colors');
 var fs = require('fs');
 
 var argv = process.argv.slice(2);
